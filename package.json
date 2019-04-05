@@ -1,0 +1,24 @@
+{
+  "name": "scry-bot",
+  "version": "1.0.0",
+  "description": "testing bot delpoyment with Heroku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Konntroll/telebot"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Gerg K",
+  "license": "ISC",
+  "engines": {
+    "node": "10.15.3"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0"
+  }
+}
