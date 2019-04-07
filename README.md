@@ -12,4 +12,6 @@ The bot will sometimes add a random (somewhat) funny comment in its output depen
 
 Please note that the price returned is print-dependent and is intended as a very basic reference, i.e. it may vary substantially from seller to seller.
 
-The app is implemented in pure Node.js. Further improvements and functionality should be available in the coming weeks.
+The app is implemented in pure Node.js and hosted on Heroku. Further improvements and functionality should be available in the coming weeks.
+
+To try the bot, reach out to **@mtg_card_info_bot** on Telegram.
