@@ -16,4 +16,4 @@ Please note that the price returned is print-dependent and is intended as a very
 
 The app is implemented in pure Node.js and hosted on Heroku.
 
-To try the bot, reach out to **@mtg_card_info_bot** on Telegram or simply follow this [link](t.me/mtg_card_info_bot).
+To try the bot, reach out to **@mtg_card_info_bot** on Telegram or simply follow this [link](http://t.me/mtg_card_info_bot).
